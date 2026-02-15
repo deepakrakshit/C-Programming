@@ -14,9 +14,9 @@ organized chapter-wise and topic-wise.
 - Chapter-wise practice sets
 
 ## 📂 Structure
-- `chapters/` → Topic-wise C programs
-- `practice-sets/` → Chapter-wise practice problems
-- `resources/` → Reference material
+- `Chapters/` → Topic-wise C programs
+- `Practice-sets/` → Chapter-wise practice problems
+- `Resources/` → Reference material
 
 📌 **Note:** Projects built using C are maintained in separate repositories.
 
