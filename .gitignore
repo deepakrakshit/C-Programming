@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Compiled binaries
+*.exe
+*.out
+
+# Editor / IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
